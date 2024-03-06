@@ -1,0 +1,15 @@
+{
+  "name": "fullbackend",
+  "version": "1.0.0",
+  "description": "this is app where we build youtube clone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "clone"
+  ],
+  "author": "Aman tiwari",
+  "license": "ISC"
+}
